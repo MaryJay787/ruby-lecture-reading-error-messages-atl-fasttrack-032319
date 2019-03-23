@@ -1,3 +1,3 @@
-def hello_world(greet)
-puts "hello world"
-end
+"hello world"
+
+hello_world
